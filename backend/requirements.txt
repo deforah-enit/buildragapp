@@ -1,0 +1,25 @@
+# FastAPI and async server
+fastapi==0.115.4
+uvicorn[standard]==0.30.4
+python-multipart==0.0.6
+
+# OpenAI API (used for embeddings, entity extraction, and answer generation)
+openai==2.8.0
+
+# Vector DB (with pre-built wheels for Windows)
+faiss-cpu==1.15.1
+
+# Neo4j Graph Database (with pre-built wheels)
+neo4j==5.14.0
+
+# PDF handling (with pre-built wheels)
+pypdf==3.17.1
+
+# Document handling (with pre-built wheels)
+python-docx==0.8.11
+
+# Environment variables (with pre-built wheels)
+python-dotenv==1.0.0
+
+# Utilities
+pydantic==2.12.4

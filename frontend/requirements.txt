@@ -1,0 +1,8 @@
+# Streamlit for UI - UPDATED to latest with new features
+streamlit==1.51.0
+
+# HTTP requests to backend - UPDATED with security fixes
+requests==2.32.5
+
+# Utilities
+python-dotenv==1.0.0
